@@ -1,0 +1,16 @@
+package com.qbireader;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+public class MainActivity extends Activity {
+	private static final int ZBAR_SCANNER_REQUEST = 0;
+	private static final int ZBAR_QR_SCANNER_REQUEST = 1;
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+	}
+
+}

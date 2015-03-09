@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QBI Reader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+      <string name="result">No result yet</string>
+      <string name="scan">Give me a cookie</string>
+
+</resources>

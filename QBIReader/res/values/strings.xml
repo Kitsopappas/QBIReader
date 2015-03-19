@@ -10,5 +10,6 @@
     <string name="ttbs">Result</string>
     <string name="gen">Generate</string>
     <string name="title_activity_generate_qr">GenerateQr</string>
+    <string name="title_activity_res">ResActivity</string>
 
 </resources>

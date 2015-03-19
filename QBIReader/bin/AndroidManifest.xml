@@ -32,6 +32,11 @@
             android:name=".GenerateQr"
             android:label="@string/title_activity_generate_qr" >
         </activity>
+        <activity
+            android:name=".ResActivity"
+            android:label="@string/title_activity_res" 
+            android:theme="@android:style/Theme.Translucent.NoTitleBar">
+        </activity>
     </application>
 
 </manifest>
